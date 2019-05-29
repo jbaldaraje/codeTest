@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.facebook.react:react-native-0.59.3">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/419e278caaa8d9d783c07b9ff972a4ee/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/419e278caaa8d9d783c07b9ff972a4ee/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/a3fbfcbe44060087651107607d01c685/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.59.3.aar/a3fbfcbe44060087651107607d01c685/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../node_modules/react-native/android/com/facebook/react/react-native/0.59.3/react-native-0.59.3-javadoc.jar!/" />
